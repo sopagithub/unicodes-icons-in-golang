@@ -1,2 +1,2 @@
-# unicodes-in-Golang
-Unicodes print (5*5) in Golang
+# unicodes-icons-in-Golang
+Unicodes icons print (5*5) in Golang
